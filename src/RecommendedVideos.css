@@ -1,0 +1,5 @@
+.recommendedVideos {
+  background-color: rgb(27, 27, 27);
+  flex: 0.8;
+  border-top: 1px solid rgb(56, 56, 56);
+}
